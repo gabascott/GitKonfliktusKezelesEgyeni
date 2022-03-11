@@ -6,6 +6,7 @@ public class KonflikzuskezelesGyak {
         
         String nev1 = "Gábor";
         String nev2 = "Ichigo";
+        String nev3;
     }
     
 }
